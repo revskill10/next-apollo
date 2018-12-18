@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-peasy": "^1.7.0",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.0",
+    "kms-web-app": "^1.0.6",
+    "kms-web-components": "^1.0.2",
+    "next": "^7.0.2",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2"
+  }
+}
