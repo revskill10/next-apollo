@@ -1,7 +1,7 @@
 import {useStore} from 'easy-peasy'
 import gql from 'graphql-tag'
 import Query from 'kms-web-components/lib/lib/query'
-
+import { Button } from 'antd';
 const Websocket = () => {
   const websocketStatus = useStore(state => state.websocket.status)
   return <div>{websocketStatus}</div>
@@ -33,6 +33,7 @@ const testSubscription = gql`
 const Page = () => {
   return (
     <div>
+      <Button type="primary">Primary</Button>
       <Websocket />
       <Query
         query={testQuery}
