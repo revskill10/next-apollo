@@ -27,7 +27,7 @@
     "next-plugin-styled-icons": "^5.2.0",
     "react": "^16.7.0-alpha.2",
     "react-dom": "^16.7.0-alpha.2",
-    "styled-icons": "^5.5.0"
+    "styled-icons": "^6.0.0"
   },
   "devDependencies": {}
 }
