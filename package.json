@@ -15,7 +15,7 @@
     "@zeit/next-less": "^1.0.1",
     "antd": "^3.11.2",
     "easy-peasy": "^1.7.0",
-    "graphql": "^14.0.2",
+    "graphql": "^16.0.0",
     "graphql-tag": "^2.10.0",
     "kms-web-app": "^1.0.7",
     "kms-web-components": "^1.0.9",
